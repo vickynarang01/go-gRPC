@@ -1,6 +1,8 @@
 # go-gRPC
 Microservices communication over Remote Procedure Protocol
 
+Pre-requisites : Install “protoc”, “go install google.golang.org/protobuf/cmd/protoc-gen-go@latest” “go install google.golang.org/grpc/cmd/protoc-gen-go-grpc@latest”, for the below gRPC Client-Server communication!
+
 Download the above project --
 
 -	Goto terminal and in the same directory that you created your server.go file and enable go modules
